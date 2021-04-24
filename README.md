@@ -1,4 +1,4 @@
 ### Simple To-Do App built using React.
 
-Try the demo hosted on netlify [here](https://github.com/facebook/create-react-app).
+Try the demo hosted on netlify [here](https://thirsty-beaver-af544a.netlify.app/).
 
